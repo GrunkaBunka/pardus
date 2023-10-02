@@ -1,1 +1,5 @@
-:3
+{
+    "id": "java",
+    "name": "Java",
+    "version":"1.0.0"
+}
