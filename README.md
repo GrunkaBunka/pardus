@@ -193,8 +193,8 @@ Project Link: [https://github.com/paschalcs/pardus](https://github.com/paschalcs
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/paschalcs/pardus.svg?style=for-the-badge
 [contributors-url]: https://github.com/paschalcs/pardus/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/paschalcs/pardus.svg?style=for-the-badge
+[forks-url]: https://github.com/paschalcs/pardus/forks
 [issues-shield]: https://img.shields.io/github/issues/paschalcs/pardus.svg?style=for-the-badge
 [issues-url]: https://github.com/paschalcs/pardus/issues
 [license-shield]: https://img.shields.io/github/license/paschalcs/pardus.svg?style=for-the-badge
